@@ -13,7 +13,7 @@ class List extends Component {
         // chamada a uma API, o state tem de ser inicializado
         this.state = {
             Season: 0,
-            Teams: []
+            Teams: [] 
         }
     }
 
